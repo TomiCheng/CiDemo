@@ -9,7 +9,7 @@ namespace CiDemo.Controllers
         [HttpGet(Name = "GetVersion")]
         public string GetVersion()
         {
-            return "0.1.1.5";
+            return "0.1.1.6";
         }
     }
 }
